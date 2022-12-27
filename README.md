@@ -43,8 +43,8 @@ This is a responsive 404 not found page built with HTML/CSS and this is a page t
 
 ### Built With
 
-[HTML]
-[CSS]
+<a href="#" >HTML</a>
+<a href="#" >CSS</a>
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
@@ -57,10 +57,10 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Acknowledgements
 
-[Netlify](for hosting)
+<a href="https://www.netlify.com/" target="_blank">Netlify</a><span> for hosting</span>
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 ## Contact
 
-- GitHub [@LinnYeeYeeLinn](https://{github.com/LinnYeeYeeLinn})
+- GitHub [@LinnYeeYeeLinn](https://github.com/LinnYeeYeeLinn)
